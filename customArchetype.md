@@ -299,7 +299,7 @@ Perform CRUD operations on employee details at: http://localhost:8080/employees.
 ## Reference:
   - Project- https://github.com/prashanthbilla/CRUD-SpringBoot-without-DataBase
 
-- Maven Archetype Guide https://maven.apache.org/guides/mini/ guide-creating-archetypes.html
+- Maven Archetype Guide https://maven.apache.org/guides/mini/guide-creating-archetypes.html
 - Video Tutorials- https://www.youtube.com/watch?v=U3AvNVT5j8w
 
 
