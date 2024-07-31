@@ -6,18 +6,30 @@ This Spring Boot application manages employee data by allowing users to perform 
 
 ### SYSTEM DETAILS
 
- - OS:PRETTY_NAME="Ubuntu 22.04.4 LTS"
-NAME="Ubuntu"
-VERSION_ID="22.04"
-VERSION="22.04.4 LTS (Jammy Jellyfish)"
-VERSION_CODENAME=jammy
-ID=ubuntu
-ID_LIKE=debian
-HOME_URL="https://www.ubuntu.com/"
-SUPPORT_URL="https://help.ubuntu.com/"
-BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
-PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
-UBUNTU_CODENAME=jammy
+- OS:   PRETTY_NAME="Ubuntu 22.04.4 LTS"
+  
+      NAME="Ubuntu"
+
+      VERSION_ID="22.04"
+
+      VERSION="22.04.4 LTS (Jammy Jellyfish)"
+
+      VERSION_CODENAME=jammy
+
+      ID=ubuntu
+
+      ID_LIKE=debian
+
+      HOME_URL="https://www.ubuntu.com/"
+
+      SUPPORT_URL="https://help.ubuntu.com/"
+
+      BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+
+      PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+
+      UBUNTU_CODENAME=jammy
+
 - Java: 
 openjdk version "17.0.11"
 - Maven
@@ -278,7 +290,7 @@ sk@sk:~/NoidaOffice/demo$
 
 ## Conclusion
 
-You have successfully created a custom Maven archetype from an existing Spring Boot project and generated a new project using that archetype. This process allows you to reuse code and structure for similar projects efficiently.
+We have successfully created a custom Maven archetype from an existing Spring Boot project and generated a new project using that archetype. This process allows you to reuse code and structure for similar projects efficiently.
 
 
 #### NOTE : 
